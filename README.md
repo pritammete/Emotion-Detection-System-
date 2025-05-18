@@ -97,24 +97,15 @@ print(predict_emotion("I am so excited today!"))  # Output: joy
 
 📝 How to Run
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/Emotion-Detection-System.git
 cd Emotion-Detection-System
+
 Install required libraries:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the script:
 
-bash
-Copy
-Edit
+Run the script:
 python emotion_detection.py
+
 📌 Future Improvements
 Expand dataset to more emotion classes
 
@@ -126,12 +117,9 @@ Deploy as an API or chatbot
 This project is licensed under the MIT License.
 
 🙌 Acknowledgements
-Dataset: [Add source if applicable]
+Dataset: Add for this project 
 
 Libraries: Scikit-learn, NeatText, Seaborn, Joblib
 
 pgsql
-Copy
-Edit
-
 Would you like me to also generate the `requirements.txt` file or provide a sample dataset format (`emotion_dataset_raw.csv`)?
